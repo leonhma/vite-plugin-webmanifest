@@ -1,0 +1,24 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "bierner.markdown-preview-github-styles",
+        "PKief.material-icon-theme",
+        "DavidAnson.vscode-markdownlint",
+        "christian-kohler.path-intellisense"
+      ],
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "editor.suggestSelection": "first",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnType": true,
+        "editor.inlineSuggest.enabled": true,
+        "workbench.iconTheme": "material-icon-theme",
+        "git.enableCommitSigning": true
+      }
+    }
+  },
+  "postCreateCommand": "yarn install"
+}
