@@ -1,10 +1,10 @@
 {
-  "name": "node-plugin-webpack",
+  "name": vite-plugin-pwa",
   "version": "1.0.0",
   "main": "index.js",
   "types": "index.d.ts",
-  "repository": "https://github.com/leonhma/node-plugin-webpack",
-  "author": "Leonhard Masche <leonhardmasche@gmail.com>",
+  "repository": "https://github.com/leonhma/vite-plugin-pwa",
+  "author": "leonhma",
   "license": "MIT",
   "private": false,
   "scripts": {
