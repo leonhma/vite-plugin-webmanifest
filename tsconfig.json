@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "outDir": "dist/",
-        "noImplicitAny": true,
-        "moduleResolution": "node",
-        "declaration": true
-    },
-    "include": ["src/"],
-}
